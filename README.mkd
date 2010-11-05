@@ -1,0 +1,36 @@
+ViMi
+====
+
+ViMi is a lightweight vim plugin manager, which is integrated with pathogen,
+github, vim.org search and a built-in metadb.
+
+    $ vimi
+
+Setup pathogen base:
+
+    $ vimi init --path ...
+
+Install:
+
+    $ vimi install [plugin name]
+
+Install from github:
+
+    $ vimi install github:user/repo
+
+Install from bitbucket:
+
+    $ vimi install bitbucket:...
+
+Uninstall:
+
+    $ vimi uninstall [plugin name]
+
+List:
+
+    $ vimi list
+
+Archive:
+
+    $ vimi archive
+
