@@ -22,6 +22,10 @@ Install from bitbucket:
 
     $ vimi install bitbucket:...
 
+Install from git repo:
+
+    $ vimi install git:...
+
 Uninstall:
 
     $ vimi uninstall [plugin name]
